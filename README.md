@@ -6,3 +6,7 @@ THIS CURRENT VERSION ONLY WORKS FOR SPECIFIC SITUATIONS, IF YOU HAVE A CONTINOUS
 NOT RECOMMENDED FOR OPEN WORLD GAMES, IT MOST LIKELY WILL NOT WORK!!
 
 The current version here is designed for a map similar to that of the simpsons hit and run and should work for maps like that. If you need to split your map for whatever reason then use two of the manager script and have one reference the other, this will allow the scripts to run perfectly together 
+
+If you need any help then feel free to message me on insta (account linked bellow)
+https://www.instagram.com/phantoms_gaming/
+I upload progress to that account in regards to current projects I'm working on
